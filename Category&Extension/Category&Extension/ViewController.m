@@ -5,6 +5,8 @@
 //  Created by lg on 2022/8/29.
 //
 //  Category 和 Extension 对比
+//  https://juejin.cn/post/6844904067987144711
+//  这篇文章写的很详细
 
 #import "ViewController.h"
 #import "ViewController+View.h"
