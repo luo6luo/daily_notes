@@ -1,6 +1,6 @@
 //
 //  Person.h
-//  static&const&extern&define
+//  memoryPartition
 //
 //  Created by tp on 2022/9/9.
 //

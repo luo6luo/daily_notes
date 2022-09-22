@@ -2,3 +2,4 @@
 日常知识点笔记
 
 - [Category和Extension优缺点](./Category&Extension)
+- [OC内存分区](./memoryPartition)
